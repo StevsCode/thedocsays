@@ -1,7 +1,6 @@
 body {
     font-family: 'Roboto', Times, serif;
-    display: flex;
-    flex-direction: column;
+    display: block;
 }
 
 .header, .front, .footer {
@@ -102,4 +101,14 @@ img {
     border: 2px outset;
     border-radius: 15px;
     margin-bottom: 40px;
+}
+
+.up-middle {
+    display: block;
+}
+
+.info {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
 }
