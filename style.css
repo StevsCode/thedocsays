@@ -94,8 +94,9 @@ a {
 button {
     text-align: center;
     border-radius: 10px;
-    width: 100px;
-    height: 35px;
+    width: 130px;
+    height: 40px;
+    font-size: 17px;
 }
 
 .sign {
@@ -178,3 +179,5 @@ img {
     font-size: 25px;
     font-weight: bold;
 }
+
+.
