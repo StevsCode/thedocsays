@@ -65,6 +65,7 @@ body {
     justify-content: center;
     gap: 560px;
     padding-bottom: 10px;
+    margin-bottom: -1px;
 }
 
 .links {
@@ -144,7 +145,8 @@ img {
 }
 
 .container {
-    margin-bottom: 40px;
+    margin-bottom: 60px;
+    margin-right: 45px;
 }
 
 .box-image {
@@ -167,7 +169,7 @@ img {
 
 .smaller-box {
     display: flex;
-    width: 1000px;
+    width: 80%;
     height: auto;
     margin: 75px auto;
     border-radius: 15px;
@@ -190,4 +192,8 @@ img {
     padding: 30px;
     text-align: center;
     font-size: 15px;
+}
+
+.sign-box {
+    margin-left: 45px;
 }
