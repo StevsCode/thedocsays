@@ -164,7 +164,9 @@ img {
 
 .smaller-box {
     display: flex;
-    margin: 75px;
+    width: 1000px;
+    height: auto;
+    margin: 75px auto;
     border-radius: 15px;
     justify-content: center;
     align-items: center;
