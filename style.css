@@ -1,6 +1,8 @@
 body {
     font-family: 'Roboto', Times, serif;
-    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .header, .front, .footer {
@@ -100,7 +102,6 @@ button {
 img {
     border: 2px outset;
     border-radius: 15px;
-    margin-bottom: 40px;
 }
 
 .up-middle {
@@ -111,4 +112,29 @@ img {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 40px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.box-text {
+    width: 180px;
+    height: auto;;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.container {
+    margin-bottom: 40px;
+}
+
+.box-image {
+    border: 5px outset #3882f6;
+    border-radius: 15px;
+    width: 180px;
+    height: auto;
 }
