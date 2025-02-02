@@ -96,3 +96,9 @@ button {
     border: solid;
     border-color: white;
 }
+
+img {
+    border: 2px outset;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
