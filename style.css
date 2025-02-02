@@ -12,6 +12,11 @@ body {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    display: block;
+    box-sizing: content-box;
+    padding: 15px 45px;
+    padding-left: 0px;
+    padding bottom: 0px;
 }
 
 .hero-secondary, .link1, .link2, .link3 {
@@ -60,3 +65,13 @@ a {
     text-decoration: none;
     color: inherit
   }
+
+.front {
+    display: flex;
+    justify-content: center;
+  }
+
+.hero-main, .hero-secondary, .sign {
+    display: block;
+    margin-bottom: 15px;
+}
