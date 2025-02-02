@@ -2,7 +2,8 @@ body {
     font-family: 'Roboto', Times, serif;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    margin: auto;
 }
 
 .header, .front, .footer {
