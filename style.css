@@ -165,6 +165,7 @@ img {
     height: auto;
     display: block;
     margin: auto;
+    margin-top: 15px;
 }
 
 .smaller-box {
