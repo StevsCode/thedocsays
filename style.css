@@ -4,11 +4,6 @@ body {
     flex-direction: column;
 }
 
-.center {
-    display: flex;
-    flex-direction: column;
-}
-
 .header, .front, .footer {
     background-color: #1F2937;
 }
