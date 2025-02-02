@@ -1,5 +1,7 @@
 body {
     font-family: 'Roboto', Times, serif;
+    display: flex;
+    flex-direction: column;
 }
 
 .header, .front, .footer {
@@ -12,7 +14,7 @@ body {
     font-weight: 900;
 }
 
-.hero-secondary {
+.hero-secondary, .link1, .link2, .link3 {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -41,4 +43,15 @@ body {
     color: #1f2937;
     font-style: italic;
     font-weight: lighter;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    gap: 16px;
 }
