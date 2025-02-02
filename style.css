@@ -171,6 +171,7 @@ img {
     display: flex;
     width: 80%;
     height: auto;
+    max-width: 1000px;
     margin: 75px auto;
     border-radius: 15px;
     justify-content: center;
