@@ -51,6 +51,11 @@ body {
     color: #1f2937;
     font-style: italic;
     font-weight: lighter;
+    width: 800px;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
 }
 
 .header {
