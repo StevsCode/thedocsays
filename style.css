@@ -22,11 +22,7 @@ body {
     color: #f9faf8;
 }
 
-button {
-    color: #3882f6;
-}
-
-.call {
+.smaller-box, button {
     background-color: #3882f6;
 }
 
