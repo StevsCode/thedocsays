@@ -80,3 +80,19 @@ a {
     box-sizing: content-box;
     padding-bottom: 10px;
 }
+
+button {
+    text-align: center;
+    padding: 5px 25px;
+    border-radius: 10px;
+}
+
+.sign {
+    border: outset;
+    border-color: #3882f6;
+}
+
+.sign-snd {
+    border: solid;
+    border-color: white;
+}
