@@ -2,3 +2,23 @@ body {
     font-family: 'Roboto', Times, serif;
 }
 
+.header, .front, .footer {
+    background-color: #1F2937;
+}
+
+.hero-main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
