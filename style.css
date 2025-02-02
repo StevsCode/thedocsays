@@ -180,4 +180,9 @@ img {
     font-weight: bold;
 }
 
-.
+.copyright {
+    color: lightgray;
+    padding: 30px;
+    text-align: center;
+    font-size: 15px;
+}
