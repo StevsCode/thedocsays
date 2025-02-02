@@ -22,3 +22,16 @@ body {
     color: #f9faf8;
 }
 
+button {
+    color: #3882f6;
+}
+
+.call {
+    background-color: #3882f6;
+}
+
+.info {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
